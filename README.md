@@ -19,46 +19,19 @@ My work focuses on building **structured, reliable, and scalable systems** that 
 
 ---
 
-## 🏗️ What I Work With
+## 📊 GitHub Stats
 
-### 💻 Languages
-Python • JavaScript • TypeScript • C • SQL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" height="165"/>
+</p>
 
-### 🌐 Frontend
-React • Next.js • Tailwind CSS
+## 🧠 Most Used Languages
 
-### ⚙️ Backend
-FastAPI • Node.js • PostgreSQL • Supabase
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+</p>
 
-### 🤖 AI & Automation
-LLMs
-Prompt Engineering
-Agentic AI Systems
-Workflow Automation
-
-### 🏛️ System Design
-API Architecture
-Modular Design
-Scalability & Performance
-
----
-
-## 🎯 Current Focus
-
-- Agentic AI for learning systems  
-- Backend architecture & system design  
-- Intelligent automation pipelines  
-
----
-
-## 🧠 Engineering Philosophy
-
-- Systems > Features  
-- Clarity > Cleverness  
-- Structure enables scale  
-- AI should augment human thinking  
-
----
 
 ## 📬 Connect
 
