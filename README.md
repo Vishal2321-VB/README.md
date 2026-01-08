@@ -22,14 +22,16 @@ My work focuses on building **structured, reliable, and scalable systems** that 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal2321-VB&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal2321-VB&hide_border=true&theme=transparent" height="165"/>
 </p>
+
 
 ## 🧠 Most Used Languages
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal2321-VB&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 
