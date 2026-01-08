@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishal (Viz)
+# 👋 Hi, I'm Vishal
 
 🚀 **Founder & CEO | AI Systems Builder | Full-Stack Engineer**
 
